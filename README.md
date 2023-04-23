@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yeneroglu69
+- 👋 Hi, I’m Muhammet Emin Yeneroglu from Turkiye. I am a student of software engineering 
 - 👀 I’m interested in web programming and cyber security.
 - 🌱 I’m currently learning C programming language. I am already know Python a little bit.
 - 💞️ I’m looking to collaborate on ...
